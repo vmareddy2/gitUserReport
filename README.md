@@ -14,4 +14,4 @@ Requirements: Python 2.7
 </p>
 
 ###### How to run
-python userReport.py --login=gohabereg --repo=codex/editor.js 
+python userReport.py --login=vmareddy2 --repo=vmareddy2/craft-demo 
