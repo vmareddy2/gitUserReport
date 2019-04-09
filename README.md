@@ -1,8 +1,11 @@
 # User Report of Git Commits in a Repo
 
-<p>Program takes in arguments: <br>
-login = user login in the git repo (eg: vmareddy2)
-repo = repo name in format owner:/repo (eg: vmareddy2/awsTC)
+<p>Program expects the following: <br>
+     program arguments:<br>
+        a. login = user-login in the git repo (eg: vmareddy2)<br>
+        b. repo = repo name in format owner:/repo (eg: vmareddy2/awsTC)
+     environment variable:<br>
+        USER_GIT_TOKEN = personal access token to the git repository
 Requirements: Python 2.7
 </p>
 
